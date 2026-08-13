@@ -1,31 +1,29 @@
-# 📈 Simulador de Investimento
+# 🏢 Simulador de Investimento em Fundos Imobiliários (FIIs)
 
 ## 📋 Contexto
-Este projeto consiste em uma ferramenta financeira desenvolvida para simular e projetar o crescimento de patrimônio sob diferentes cenários de investimento. Ele calcula o impacto dos juros compostos ao longo do tempo, auxiliando na tomada de decisão e no planejamento financeiro de médio e longo prazo.
+Este projeto consiste em uma ferramenta financeira desenvolvida especificamente para simular, projetar e estimar os rendimentos de Fundos Imobiliários (FIIs). Através deste simulador, o usuário consegue prever o crescimento do seu patrimônio e a evolução do recebimento de dividendos mensais em um determinado período de tempo, auxiliando na estratégia de geração de renda passiva.
 
 ## 🎯 Objetivos
-* **Projeção Patrimonial:** Calcular a evolução do capital com base em aportes iniciais, aportes mensais e taxas de juros.
-* **Comparação de Cenários:** Permitir a simulação entre diferentes modalidades de investimento (Renda Fixa, Variável, etc.).
-* **Previsibilidade:** Demonstrar visualmente o efeito do tempo (juros compostos) no acúmulo de riqueza.
+* **Estimativa de Proventos:** Calcular a projeção de dividendos mensais com base no Dividend Yield do fundo escolhido.
+* **Efeito Bola de Neve:** Simular o reinvestimento automático dos dividendos para a compra de novas cotas sem tirar dinheiro do bolso.
+* **Planejamento de Metas:** Ajudar o investidor a descobrir quanto tempo e capital são necessários para atingir o "Magic Number" (momento em que o fundo paga uma nova cota sozinho).
 
 ## 📂 Estrutura do Repositório
-* `Simulador de investimentos.xlsx`: Planilha principal com os motores de cálculo e gráficos comparativos.
+* `Simulador_de_investimentos.xlsx`: Planilha automatizada com motores de cálculo para projeção de FIIs.
 * `README.md`: Documentação técnica do projeto.
 
 ## 🛠️ Recursos do Simulador
-*(Dica: Ajuste estes tópicos de acordo com o que você construiu na planilha)*
-* **Cálculo de Juros Compostos:** Fórmulas automatizadas para projeção mensal e anual.
-* **Simulação de Aportes:** Entrada variável para investimento inicial e depósitos recorrentes.
-* **Desconto de Inflação/Impostos:** Estimativa de rendimento real líquido (se aplicável).
-* **Gráficos Dinâmicos:** Visualização clara da curva de crescimento do patrimônio vs. o total investido.
+* **Entrada de Variáveis Reais:** Campos para inserir o preço atual da cota, o último dividendo pago por cota e o aporte mensal pretendido.
+* **Crescimento Composto:** Cálculo exato da evolução do número de cotas ao longo dos meses e anos.
+* **Gráfico de Renda Passiva:** Visualização clara da curva de crescimento do seu salário mensal vindo dos aluguéis dos fundos.
 
 ## 🚀 Como Utilizar
-1. Faça o download do arquivo `Simulador de investimentos.xlsx` ou clone este repositório.
-2. Abra o arquivo no Microsoft Excel, Google Sheets ou software compatível.
-3. Insira as variáveis desejadas (Valor Inicial, Taxa de Juros `%` e Tempo) para ver os resultados e gráficos atualizados instantaneamente.
+1. Baixe o arquivo `Simulador_de_investimentos.xlsx` ou clone este repositório.
+2. Insira os dados do Fundo Imobiliário que você deseja analisar (ex: Valor da cota e Dividend Yield mensal).
+3. Defina o período de tempo e o valor que deseja aplicar mensalmente para visualizar as projeções de ganho.
 
 ## 💡 Habilidades Demonstradas
-* Desenvolvimento de lógica financeira e matemática aplicada.
-* Estruturação de dados para modelagem de cenários preditivos.
-* Criação de dashboards visuais para suporte à tomada de decisão.
+* Modelagem de cenários preditivos aplicados ao mercado de fundos imobiliários.
+* Estruturação de lógica matemática para reinvestimento dinâmico de proventos.
+* Criação de ferramentas funcionais de apoio à tomada de decisão financeira.
 *
