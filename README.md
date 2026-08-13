@@ -26,4 +26,3 @@ Este projeto consiste em uma ferramenta financeira desenvolvida especificamente 
 * Modelagem de cenários preditivos aplicados ao mercado de fundos imobiliários.
 * Estruturação de lógica matemática para reinvestimento dinâmico de proventos.
 * Criação de ferramentas funcionais de apoio à tomada de decisão financeira.
-*
