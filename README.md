@@ -27,5 +27,5 @@ Este projeto consiste em uma ferramenta financeira desenvolvida especificamente 
 * Estruturação de lógica matemática para reinvestimento dinâmico de proventos.
 * Criação de ferramentas funcionais de apoio à tomada de decisão financeira.
 ## 👨‍💻 Autor
-Desenvolvido por *André Luiz* durante a trilha de finanças e dados da *DIO*.  
+Desenvolvido por *André Luiz* durante a trilha de Excel com IA da *DIO*.  
 [GitHub](https://github.com/aluiz-91)
